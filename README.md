@@ -14,7 +14,7 @@ K-Means clustering
 
 Cluster visualization
 
-📊 Key Features
+## 📊 Key Features
 Data cleaning and normalization
 
 Use of KMeans from sklearn.cluster
@@ -25,7 +25,7 @@ Elbow method to optimize k
 
 Cluster insights using scatter plots
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 Python 3.10+
 
 Jupyter Notebook
@@ -36,35 +36,6 @@ matplotlib, seaborn
 
 scikit-learn
 
-🚀 How to Run
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/ml-customer-segmentation.git
-cd ml-customer-segmentation
-Create a conda environment:
-
-bash
-Copy
-Edit
-conda create -n ml-env python=3.10 notebook
-conda activate ml-env
-Install dependencies:
-
-bash
-Copy
-Edit
-pip install pandas numpy matplotlib seaborn scikit-learn
-Run Jupyter Notebook:
-
-bash
-Copy
-Edit
-jupyter notebook
-📌 Use Case
-Businesses can use the segmentation insights to:
 
 Personalize marketing strategies
 

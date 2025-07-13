@@ -1,7 +1,7 @@
 # 🧠 Machine Learning Project – Customer Segmentation using K-Means Clustering
 This project demonstrates unsupervised learning through the implementation of K-Means Clustering to segment customers based on their purchasing behavior. It uses real-world-style customer data to group customers into clusters with similar traits, aiding business decision-making and targeted marketing.
 
-📁 Files
+## 📁 Files
 MLproject_1.ipynb – Jupyter Notebook containing:
 
 Data preprocessing

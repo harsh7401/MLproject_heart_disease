@@ -1,32 +1,32 @@
-# 🧠 Machine Learning Project – Customer Segmentation using K-Means Clustering
-This project demonstrates unsupervised learning through the implementation of K-Means Clustering to segment customers based on their purchasing behavior. It uses real-world-style customer data to group customers into clusters with similar traits, aiding business decision-making and targeted marketing.
+# ❤️ Heart Disease Prediction using Machine Learning
+This machine learning project predicts the likelihood of heart disease in patients using real-world clinical data. It demonstrates a full ML pipeline: from data loading and cleaning, to exploratory data analysis (EDA), visualization, model training, and evaluation.
 
-## 📁 Files
-MLproject_1.ipynb – Jupyter Notebook containing:
+## 📁 Project File
+MLproject_1.ipynb: A Jupyter notebook implementing:
 
 Data preprocessing
 
-EDA (Exploratory Data Analysis)
+Exploratory Data Analysis (EDA)
 
-Elbow method to find the optimal number of clusters
+Visual insights (e.g. age vs max heart rate, sex vs disease)
 
-K-Means clustering
+Model training using Logistic Regression
 
-Cluster visualization
+Accuracy evaluation
 
-## 📊 Key Features
-Data cleaning and normalization
+## 🔬 Key Features
+Clean and analyze structured heart disease data
 
-Use of KMeans from sklearn.cluster
+Correlation plots to understand feature relationships
 
-Visualizations with matplotlib and seaborn
+Sex and chest pain type analysis
 
-Elbow method to optimize k
+Logistic Regression model for binary classification
 
-Cluster insights using scatter plots
+Performance evaluation using accuracy score
 
-## 🧰 Tech Stack
-Python 3.10+
+## 🧰 Technologies Used
+Python
 
 Jupyter Notebook
 
@@ -35,12 +35,3 @@ pandas, numpy
 matplotlib, seaborn
 
 scikit-learn
-
-
-Personalize marketing strategies
-
-Identify high-value customers
-
-Optimize resource allocation
-
-
